@@ -1,0 +1,69 @@
+1) Which of the following is an invalid assignment?
+1) var = (22/22) + 1
+2) var = (22/22.0) + 1
+3) var = "22/22.0" + 1
+4) var = "22/22.0" + "1"
+3) TypeError since we are trying to concatanate a string and an integer
+
+2) What is the output of print str[2:5] if str = 'Hello World!'?(take _ as blank space)
+1) llo_
+2) ello
+3) ell
+4) llo
+4) It will print characters starting from 3rd to 5th. Output would be llo.
+
+3) print(bool("true")) if "hello" == "Hello".lower() else print("false") . Output?
+1) True
+2) true
+3) false
+4) will result in error
+1) "Hello".lower() would convert "Hello" to "hello" which makes the if condition true and bool("true") is True
+
+4) What is the purpose of // operator?
+1) divides twice
+2) divides once and the quotient without the decimal part is taken
+3) operator does not exist in python
+4) it's equivalent to modulo operator(%) from other languages 
+2) this is simply floor division,used when we have to remove the decimal part
+
+5) Which of the following is invalid?
+1) "print((22/22) + 1)" prints 2.0
+2) "print((22/22.0) + 1)" prints 2.0
+3) "print((22//22.0) + 1)" prints 2
+4) "print((22.0//22.0) + 1)" prints 2
+4) Although it's floor division, both the numbers are in floating point. so result too would be float,ie:- 2.0
+
+6) Which of the following is not a common python framework?
+1) flask
+2) django
+3) angular
+4) dash
+3) Angular is a javascript web framework
+
+7) if my_list = [1,"abc"], then output of print(2*my_list)
+1) [2,"abcabc"]
+2) [1,'abc',1,'abc']
+3) [[1,"abc"],[1,"abc"]]
+4) TypeError since the list contains "abc"(string type) and we are trying to multiply 2(int type)
+2) the content gets replicated n-number of times. here n = 2
+
+8) How will you check in a string that all characters are alphanumeric?
+1) using isAlNum()
+2) using isalnum()
+3) using isalpha()
+4) no direct method available in python
+2) isalnum() is the correct answer
+
+9) What is the output of L[-2] if L = [1,4,2,3]?
+1) 2
+2) 1
+3) [2,3]
+4) Negative indexes are not possible
+1) since negative indexes starts indexing from end to beginning and the 2nd one is 2
+
+10) Which of these methods can output a reversed list from mylist=[1,2,3]?
+1) list.reverse()
+2) [i for i in range(len(mylist),0,-1)]
+3) mylist[::-1]
+4) all of the above.
+4) all are correct and slicing is my favourite. there are other methods like reversed(mylist) too.

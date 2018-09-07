@@ -1,0 +1,67 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/6aa62c97/
+BOLD	colors.py	/^    BOLD = '\\033[1m'$/;"	v	class:bcolors
+CBEIGE	colors.py	/^    CBEIGE = '\\33[36m'$/;"	v	class:bcolors
+CBEIGE2	colors.py	/^    CBEIGE2 = '\\33[96m'$/;"	v	class:bcolors
+CBEIGEBG	colors.py	/^    CBEIGEBG = '\\33[46m'$/;"	v	class:bcolors
+CBEIGEBG2	colors.py	/^    CBEIGEBG2 = '\\33[106m'$/;"	v	class:bcolors
+CBLACK	colors.py	/^    CBLACK = '\\33[30m'$/;"	v	class:bcolors
+CBLACKBG	colors.py	/^    CBLACKBG = '\\33[40m'$/;"	v	class:bcolors
+CBLINK	colors.py	/^    CBLINK = '\\33[5m'$/;"	v	class:bcolors
+CBLINK2	colors.py	/^    CBLINK2 = '\\33[6m'$/;"	v	class:bcolors
+CBLUE	colors.py	/^    CBLUE = '\\33[34m'$/;"	v	class:bcolors
+CBLUE2	colors.py	/^    CBLUE2 = '\\33[94m'$/;"	v	class:bcolors
+CBLUEBG	colors.py	/^    CBLUEBG = '\\33[44m'$/;"	v	class:bcolors
+CBLUEBG2	colors.py	/^    CBLUEBG2 = '\\33[104m'$/;"	v	class:bcolors
+CBOLD	colors.py	/^    CBOLD = '\\33[1m'$/;"	v	class:bcolors
+CEND	colors.py	/^    CEND = '\\33[0m'$/;"	v	class:bcolors
+CGREEN	colors.py	/^    CGREEN = '\\33[32m'$/;"	v	class:bcolors
+CGREEN2	colors.py	/^    CGREEN2 = '\\33[92m'$/;"	v	class:bcolors
+CGREENBG	colors.py	/^    CGREENBG = '\\33[42m'$/;"	v	class:bcolors
+CGREENBG2	colors.py	/^    CGREENBG2 = '\\33[102m'$/;"	v	class:bcolors
+CGREY	colors.py	/^    CGREY = '\\33[90m'$/;"	v	class:bcolors
+CGREYBG	colors.py	/^    CGREYBG = '\\33[100m'$/;"	v	class:bcolors
+CITALIC	colors.py	/^    CITALIC = '\\33[3m'$/;"	v	class:bcolors
+CRED	colors.py	/^    CRED = '\\33[31m'$/;"	v	class:bcolors
+CRED2	colors.py	/^    CRED2 = '\\33[91m'$/;"	v	class:bcolors
+CREDBG	colors.py	/^    CREDBG = '\\33[41m'$/;"	v	class:bcolors
+CREDBG2	colors.py	/^    CREDBG2 = '\\33[101m'$/;"	v	class:bcolors
+CSELECTED	colors.py	/^    CSELECTED = '\\33[7m'$/;"	v	class:bcolors
+CURL	colors.py	/^    CURL = '\\33[4m'$/;"	v	class:bcolors
+CVIOLET	colors.py	/^    CVIOLET = '\\33[35m'$/;"	v	class:bcolors
+CVIOLET2	colors.py	/^    CVIOLET2 = '\\33[95m'$/;"	v	class:bcolors
+CVIOLETBG	colors.py	/^    CVIOLETBG = '\\33[45m'$/;"	v	class:bcolors
+CVIOLETBG2	colors.py	/^    CVIOLETBG2 = '\\33[105m'$/;"	v	class:bcolors
+CWHITE	colors.py	/^    CWHITE = '\\33[37m'$/;"	v	class:bcolors
+CWHITE2	colors.py	/^    CWHITE2 = '\\33[97m'$/;"	v	class:bcolors
+CWHITEBG	colors.py	/^    CWHITEBG = '\\33[47m'$/;"	v	class:bcolors
+CWHITEBG2	colors.py	/^    CWHITEBG2 = '\\33[107m'$/;"	v	class:bcolors
+CYELLOW	colors.py	/^    CYELLOW = '\\33[33m'$/;"	v	class:bcolors
+CYELLOW2	colors.py	/^    CYELLOW2 = '\\33[93m'$/;"	v	class:bcolors
+CYELLOWBG	colors.py	/^    CYELLOWBG = '\\33[43m'$/;"	v	class:bcolors
+CYELLOWBG2	colors.py	/^    CYELLOWBG2 = '\\33[103m'$/;"	v	class:bcolors
+ENDC	colors.py	/^    ENDC = '\\033[0m'$/;"	v	class:bcolors
+FAIL	colors.py	/^    FAIL = '\\033[91m'$/;"	v	class:bcolors
+HEADER	colors.py	/^    HEADER = '\\033[95m'$/;"	v	class:bcolors
+Mcq	mcq.py	/^class Mcq:$/;"	c
+OKBLUE	colors.py	/^    OKBLUE = '\\033[94m'$/;"	v	class:bcolors
+OKGREEN	colors.py	/^    OKGREEN = '\\033[92m'$/;"	v	class:bcolors
+Student	student.py	/^class Student:$/;"	c
+UNDERLINE	colors.py	/^    UNDERLINE = '\\033[4m'$/;"	v	class:bcolors
+WARNING	colors.py	/^    WARNING = '\\033[93m'$/;"	v	class:bcolors
+__init__	mcq.py	/^    def __init__(self, qno, question, choices, correct_ans):$/;"	m	class:Mcq
+__init__	student.py	/^    def __init__(self, name, roll, course, mark):$/;"	m	class:Student
+ask_question	mcq.py	/^def ask_question(ques):$/;"	f
+bcolors	colors.py	/^class bcolors:$/;"	c
+get_ans	mcq.py	/^def get_ans(ques, student, num):$/;"	f
+give_tips	welcome.py	/^def give_tips(student):$/;"	f
+main	pyquiz.py	/^def main():$/;"	f
+read_questions	mcq.py	/^    def read_questions(self):$/;"	m	class:Mcq
+scores	mcq.py	/^def scores(student):$/;"	f
+start_quiz	mcq.py	/^    def start_quiz(self, student):$/;"	m	class:Mcq
+welcome_text	welcome.py	/^def welcome_text():$/;"	f
