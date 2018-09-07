@@ -53,5 +53,5 @@ Identity Operators   ( is  , is not                     )
 Membership Operators ( in  , not in                     )  
 
 ### for more info :-
-* lists - ![click here]()
-* tuples - ![click here]()
+* lists - [click here](https://raw.githubusercontent.com/yedhink/pyquiz/master/lists.py)
+* tuples - [click here](https://raw.githubusercontent.com/yedhink/pyquiz/master/tuples.py)
