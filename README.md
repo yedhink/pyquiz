@@ -53,7 +53,8 @@ Logical Operators    ( and , or , not                   )
 Identity Operators   ( is  , is not                     )  
 Membership Operators ( in  , not in                     )  
 
-## for more references
+## class notes
+* operators - [click here](https://raw.githubusercontent.com/yedhink/pyquiz/master/operators.py)
 * lists - [click here](https://raw.githubusercontent.com/yedhink/pyquiz/master/lists.py)
 * tuples - [click here](https://raw.githubusercontent.com/yedhink/pyquiz/master/tuples.py)
 
