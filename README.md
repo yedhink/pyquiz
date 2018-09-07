@@ -1,4 +1,5 @@
 # Intro
+This repo is maintained with aim of introducing python to all beginners and helping them with practice problems. The project was made as part of the ACM workshop for python.  
 Python is completely object oriented, and not "statically typed".
 You do not need to declare variables before using them, or declare
 their type. Every variable in Python is an object.
@@ -52,6 +53,8 @@ Logical Operators    ( and , or , not                   )
 Identity Operators   ( is  , is not                     )  
 Membership Operators ( in  , not in                     )  
 
-### for more info :-
+## for more references
 * lists - [click here](https://raw.githubusercontent.com/yedhink/pyquiz/master/lists.py)
 * tuples - [click here](https://raw.githubusercontent.com/yedhink/pyquiz/master/tuples.py)
+
+##
